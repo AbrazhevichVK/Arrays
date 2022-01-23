@@ -1,0 +1,14 @@
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\bin\Debug\netcoreapp3.1\AbrArrays.exe
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\bin\Debug\netcoreapp3.1\AbrArrays.deps.json
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\bin\Debug\netcoreapp3.1\AbrArrays.runtimeconfig.json
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\bin\Debug\netcoreapp3.1\AbrArrays.runtimeconfig.dev.json
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\bin\Debug\netcoreapp3.1\AbrArrays.dll
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\bin\Debug\netcoreapp3.1\AbrArrays.pdb
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\obj\Debug\netcoreapp3.1\AbrArrays.csproj.AssemblyReference.cache
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\obj\Debug\netcoreapp3.1\AbrArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\obj\Debug\netcoreapp3.1\AbrArrays.AssemblyInfoInputs.cache
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\obj\Debug\netcoreapp3.1\AbrArrays.AssemblyInfo.cs
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\obj\Debug\netcoreapp3.1\AbrArrays.csproj.CoreCompileInputs.cache
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\obj\Debug\netcoreapp3.1\AbrArrays.dll
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\obj\Debug\netcoreapp3.1\AbrArrays.pdb
+D:\ItAcademy\Base c#\HomeTask\AbrArrays\AbrArrays\obj\Debug\netcoreapp3.1\AbrArrays.genruntimeconfig.cache
